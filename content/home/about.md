@@ -15,7 +15,7 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
-  about_img = "/img/cruise_group1.jpeg"
+  about_img = "/img/cruise_group1.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -27,8 +27,8 @@ subtitle = ""
   color = "navy"
 
   # Background gradient.
-  gradient_start = "#f9f9f9"
-  gradient_end = "#ede8e8"
+  gradient_start = "#f9f7f7"
+  gradient_end = "#f2f2f2"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -42,7 +42,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["20px", "0", "30px", "0"]
 
 [advanced]
  # Custom CSS.
